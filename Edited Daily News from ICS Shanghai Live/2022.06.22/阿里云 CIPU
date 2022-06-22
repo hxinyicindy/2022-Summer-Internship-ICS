@@ -1,0 +1,40 @@
+
+
+阿里云发布云数据中心处理器CIPU 或将替代CPU成为云时代处理核心
+China embraces another breakthrough in cloud computing
+http://en.people.cn/n3/2022/0621/c90000-10112327.html
+视频：https://b23.tv/L0vwHFA
+
+
+配音：Alibaba Cloud recently unveiled the Cloud Infrastructure Processing Unit (CIPU) designed to power cloud-native data centers. The CIPU is expected to replace the central processing unit (CPU), as the core of a new generation of cloud computer system. It transfers the computing, storage and internet resources of data centers to the cloud and enables hardware acceleration, and is also connected to Alibaba’s Apsara system, turning millions of servers around the world into a super computer.
+（最后一句加上有点长了，不确定是否应该保留）
+下面是相关数据的提升，全部加花字可能太多了，怎么删减比价好？
+There’s a huge increase in the computing power with the CIPU and Apsara at the core. 
+In mainstream computing scenarios, the Nginx performance has been raised by 89 percent, the Redis performance 68 percent and the MySQL performance 60 percent. 
+In big data and AI scenarios, there’s a 30 percent rise in both AI learning and the Spark engine. 
+The consumption of virtualization is down by 50 percent, while the startup speed of virtualization containers has increased by three-and-a-half times.
+
+
+Alibaba Cloud developed the CIPU, a processor for new cloud data centers. 
+
+------
+
+Alibaba Cloud recently unveiled the Cloud Infrastructure Processing Unit (CIPU) designed to power cloud-native data centers. The CIPU is expected to replace CPU, or the central processing unit, as the core of a new generation of cloud computer system.
+
+Over the past decades, the U.S. has constantly held a leading position globally in the information industry. For instance, the Electronic Numerical Integrator and Computer, better known as ENIAC, developed by the University of Pennsylvania became the world’s first programmable general-purpose electronic computer on Feb. 14, 1946, raising the curtain of the information age. Sixty years later, Amazon’s Simple Storage Service, or Amazon S3 ushered in the era of cloud computing as the world's first cloud computing service. 
+
+“The CIPU has completely changed the structure of the last-gen computing architecture, making China a world leader in basic technology,” said Zheng Weimin, academician of the Chinese Academy of Engineering and head of the Department of Computer Science and Technology, Tsinghua University.
+
+The CIPU and CPU are completely different despite the minor difference in their acronyms. The CPU, a super large integrated circuit, is the core of a computer's computing and controlling operations. Its major function is explaining orders and processing software data. However, Alibaba Cloud’s CIPU is the hub of control and acceleration for cloud computing.
+
+In the digital era, super large computing scenarios and power are especially important for populous countries like China, and the demand for cloud computing is constantly rising as the internet of things approaches. To meet the ever-increasing computing demand, China officially kicked off a project that "processes eastern data in the west" in February this year, trying to build a new type of computing network that combines data centers, cloud computing, and big data through 10 national data center clusters.
+
+Data center construction calls for huge and systematic efforts. As a senior player in the cloud computing sector, Alibaba Cloud finds that data centers with traditional CPU at the core are largely hindered by wastage of processing power. It is because as the data centers grow bigger, the EAST-WEST traffic gets bigger, too, which makes cloud computing turn from a business processing center to a data processing center, and the CPU was more engaged in the network business, rather than computing. It means many servers deployed at data centers are going to waste.
+
+Therefore, Alibaba Cloud developed the CIPU, a processor for new cloud data centers. It transfers the computing, storage and internet resources of data centers to the cloud and enables hardware acceleration, and is also connected to Alibaba’s Apsara system, turning millions of servers around the world into a super computer.
+
+It is proved that there’s a huge increase in the computing power with the CIPU and Apsara at the core. In mainstream computing scenarios, the Nginx performance has been raised by 89 percent, the Redis performance 68 percent and the MySQL performance 60 percent. In big data and AI scenarios, there’s a 30 percent rise in both AI learning and the Spark engine. The consumption of virtualization is down by 50 percent, while the startup speed of virtualization containers has increased by three-and-a-half times.
+
+The improvement is not limited to performance. Under traditional IT frameworks, the performance and manufacturing difficulty of silicon-based chips have almost reached the limit, so it’s quite uncertain when the next breakthrough would be made. Therefore, more and more researchers resorted to cloud computing, hoping to bring about a huge increase in computing power through a new type of computing structure, rather than the silicon-based chips alone.
+
+With the CIPU, Alibaba Cloud is forging ahead neck and neck with other international IT giants, according to Zheng, who added that the processing unit has gained an upper hand for China in the definition of cloud computing and changed the rules set by the West. He said he believes China will gain a foothold in the next era of technology.
