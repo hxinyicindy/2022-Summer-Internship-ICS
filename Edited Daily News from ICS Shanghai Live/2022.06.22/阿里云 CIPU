@@ -1,21 +1,38 @@
 
 
 阿里云发布云数据中心处理器CIPU 或将替代CPU成为云时代处理核心
-China embraces another breakthrough in cloud computing
+China Embraces Another Breakthrough in Cloud Computing
 http://en.people.cn/n3/2022/0621/c90000-10112327.html
 视频：https://b23.tv/L0vwHFA
 
+Cloud Infrastructure Processing Unit (CIPU)
+designed to power cloud-native data centers
+
+Central Processing Unit (CPU)
+
+Core of a new generation of
+cloud computer system
+
+transfers
+computing
+storage
+internet resources
+of data centers
+to the cloud
+
+enables hardware acceleration
+
+connected to Alibaba’s Apsara system
+turning millions of servers around the world
+into a super computer
+
+Alibaba Cloud recently unveiled the Cloud Infrastructure Processing Unit (CIPU) designed to power cloud-native data centers.
+The CIPU is expected to replace the central processing unit (CPU), as the core of a new generation of cloud computer system.
+It transfers the computing, storage and internet resources of data centers to the cloud and enables hardware acceleration,
+and is also connected to Alibaba’s Apsara system, turning millions of servers around the world into a super computer.
+
 
 配音：Alibaba Cloud recently unveiled the Cloud Infrastructure Processing Unit (CIPU) designed to power cloud-native data centers. The CIPU is expected to replace the central processing unit (CPU), as the core of a new generation of cloud computer system. It transfers the computing, storage and internet resources of data centers to the cloud and enables hardware acceleration, and is also connected to Alibaba’s Apsara system, turning millions of servers around the world into a super computer.
-（最后一句加上有点长了，不确定是否应该保留）
-下面是相关数据的提升，全部加花字可能太多了，怎么删减比价好？
-There’s a huge increase in the computing power with the CIPU and Apsara at the core. 
-In mainstream computing scenarios, the Nginx performance has been raised by 89 percent, the Redis performance 68 percent and the MySQL performance 60 percent. 
-In big data and AI scenarios, there’s a 30 percent rise in both AI learning and the Spark engine. 
-The consumption of virtualization is down by 50 percent, while the startup speed of virtualization containers has increased by three-and-a-half times.
-
-
-Alibaba Cloud developed the CIPU, a processor for new cloud data centers. 
 
 ------
 
